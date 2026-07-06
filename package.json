@@ -1,0 +1,9 @@
+{
+  "name": "kamakshi-coaching-site",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Static, framework-free rebuild of Kamakshi Raheja's NLP coaching site.",
+  "scripts": {
+    "dev": "npx --yes serve . -l 5500"
+  }
+}

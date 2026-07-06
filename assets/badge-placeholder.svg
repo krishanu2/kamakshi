@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Certification badge placeholder">
+  <circle cx="80" cy="80" r="74" fill="none" stroke="#7c8c6e" stroke-width="4"/>
+  <circle cx="80" cy="80" r="60" fill="none" stroke="#7c8c6e" stroke-width="1.5"/>
+  <text x="80" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2b2621">Certified</text>
+  <text x="80" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2b2621">NLP</text>
+  <text x="80" y="112" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2b2621">Practitioner</text>
+</svg>

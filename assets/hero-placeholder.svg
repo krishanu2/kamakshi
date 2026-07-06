@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560" role="img" aria-label="Placeholder photo of Kamakshi Raheja">
+  <rect width="480" height="560" fill="#f3ead9"/>
+  <circle cx="240" cy="220" r="110" fill="#e0946a"/>
+  <path d="M80 560c0-110 71.6-200 160-200s160 90 160 200z" fill="#c1602e"/>
+  <text x="240" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#6b6058">Photo placeholder — replace with real portrait</text>
+</svg>
